@@ -20,4 +20,3 @@ Este é um jogo simples em que um personagem (representado por uma imagem de Mar
 ## CREDITOS:
 - [PROJETO CRIADO PELO "EvanderInacio"](https://github.com/EvanderInacio/Mario)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
